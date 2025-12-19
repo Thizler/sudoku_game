@@ -27,12 +27,13 @@ sudoku_game/
 
 ▶️ Run (Desktop)
 วิธีที่ 1: รันด้วย Gradle (แนะนำ)
-```
+  
 Windows (PowerShell / CMD)
+```
 gradlew desktop:run
 ```
+macOS / Linux  
 ```
-macOS / Linux
 ./gradlew desktop:run
 ```
 ถ้าคำสั่ง desktop:run ไม่ตรงกับโปรเจกต์คุณ
